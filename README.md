@@ -1,4 +1,4 @@
-<h1> OpenCV Augmented Reality (AR) - IMSAR PROJECT</h1>
+<h1> Augmented-Reality-using-OpenCV-in-Python at IMSAR</h1>
 <br>
 <h2>Features</h2>
 <ul>
